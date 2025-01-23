@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a UI/UX designer and front-end developer. I build web applications ( and small components like dashboards, nav and sidebars, etc ) for fun and that's how I get to grow in this tech field.<br><br>📚 I'm currently learning AngularJS and SQL ( Structured Query Language )<br><br>🎯 2025 Goals: Dive into back-end development and build my first ever SaaS product ( haha, wish me luck ). Last one, kick start a career in DevOps Engineering.<br><br>🎲 Fact: I'm self teaching myself Software Development, undergraduate Computer Science just gave me the coding basics.</p>
+<p align="left">✨ I'm a UI/UX designer and front-end developer. I design and build web applications ( and small components like dashboards, nav and sidebars, etc ) for fun and that's how I get to grow in this tech field.<br><br>📚 I'm currently learning AngularJS and SQL ( Structured Query Language )<br><br>🎯 2025 Goals: Dive into back-end development, build a couple of projects ( including my first ever Software-As-A-Service product ). Lastly, kick start a career in DevOps Engineering.<br><br>🎲 Fact: I'm self teaching myself Software Development, undergraduate Computer Science just gave me the fundamentals.</p>
 
 ###
 
